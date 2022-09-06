@@ -19,11 +19,11 @@ This assignement required students to create a content management systems (CMS) 
 
 - [Employee Tracker Video Link]()
 
-- [Employee Tacker Screehshot]()
+- [Employee Tracker Screehshot]()
 
 ## Resources
 
-- [LIVE SITE]()
+- [LIVE SITE](https://cinderbeast.github.io/12-SQL-Employee-Tracker)
 
 - [Repository](https://github.com/Cinderbeast/13-Object-Relational-Mapping-ORM-E-Commerce-Back-End)
 
