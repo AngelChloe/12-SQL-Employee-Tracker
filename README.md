@@ -23,9 +23,9 @@ This assignement required students to create a content management systems (CMS) 
 
 ## Resources
 
-- [LIVE SITE]())
+- [LIVE SITE]()
 
-- [Repository](https://github.com/Cinderbeast/Express.js-Note-Take)
+- [Repository](https://github.com/Cinderbeast/13-Object-Relational-Mapping-ORM-E-Commerce-Back-End)
 
 ## Installation
 - Download through GitHub Repository
