@@ -1,27 +1,27 @@
-/* Department Table */
 USE tracker_db;
 
 INSERT INTO department (name)
-VALUES 
-("Task Enforcer's"),
-("Billing"),
-("Scheduling");
-    
-/* Role Table */
-INSERT INTO role (title, salary, department_id)
-VALUES 
-("TeamLead", 150000, 1),
-("Taskenforcer", 100000, 2), 
-("Billing", 80000, 3),  
-("Scheduler", 75000, 4); 
+VALUES ("Sales"),
+       ("Engineering"),
+       ("Finance"),
+       ("Legal");
 
-/* Employee Table */
--- INSERT INTO employee (first_name, last_name, role_id, teamlead_id)
-INSERT INTO employee (first_name, role_id, TeamLead_id)
-VALUES 
-("Gracie", 1, 1),
-("Sami", 2, 2),
-("Cindy", 3, 2),
-("Kaylee", 4, 2),
-("Emily", 5, 3),
-("Jessie", 6, 3);
+INSERT INTO role (title,salary,department_id)
+VALUES
+("Salesperson", 80000,1),
+("Lead Engineer", 150000,2),
+("Software Engineer", 120000,2),
+("Account Manager", 160000,3),
+("Accountant", 125000,3),
+("Legal Team Lead", 250000,4),
+("Lawyer", 190000,4);
+
+INSERT INTO employee (first_name,last_name,role_id,manager_id)
+VALUES
+("Gracie","Smith",1,null),
+("Sami","Jones",2,null),
+("Cindy","Chynoweth",3,2),
+("Kaylee","Brown",4,null),
+("Emily","Richards",5,4),
+("Jenny","Edwards",6,null),
+("Jessie","Stevens",7,6);
