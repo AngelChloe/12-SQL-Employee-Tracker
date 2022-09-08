@@ -25,7 +25,7 @@ This assignement required students to create a content management systems (CMS) 
 
 - [LIVE SITE](https://cinderbeast.github.io/12-SQL-Employee-Tracker)
 
-- [Repository](https://github.com/Cinderbeast/13-Object-Relational-Mapping-ORM-E-Commerce-Back-End)
+- [Repository](https://github.com/Cinderbeast/12-SQL-Employee-Tracker)
 
 ## Installation
 - Download through GitHub Repository
