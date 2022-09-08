@@ -1,4 +1,4 @@
-DROP DATABASE IF EXISTS tracker_db;
+DRDROP DATABASE IF EXISTS tracker_db;
 CREATE DATABASE tracker_db;
 
 USE tracker_db;
@@ -23,11 +23,11 @@ CREATE TABLE employee (
   first_name VARCHAR(30) NOT NULL,
   last_name VARCHAR(30) NOT NULL,
   role_id INT,
-  teamlead_id INT ,
+  manager_id INT ,
   FOREIGN KEY (role_id)
   REFERENCES role(id)
   ON DELETE SET NULL,
-  FOREIGN KEY (teamlead_id)
+  FOREIGN KEY (manager_id)
   REFERENCES employee(id)
   ON DELETE SET NULL
 );
