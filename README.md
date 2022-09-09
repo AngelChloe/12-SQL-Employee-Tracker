@@ -1,7 +1,5 @@
 # SQL-Employee-Tracker
 
-# Employee Tracker
-
 ## Table of Contents
 
 1. [Description](#description)
