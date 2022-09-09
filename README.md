@@ -35,9 +35,9 @@ This assignement required students to create a content management systems (CMS) 
 - npm install inquirer
 - npm install mysql
 - npm install console.table
-- mysql - u root
-- source db/schema.ql
-- source db/seed.ql
+- mysql -u root
+- source db/schema.sql
+- source db/seed.sql
 - exit
 - nodemon
 - make sure server.js is connected to SQL before continuing
