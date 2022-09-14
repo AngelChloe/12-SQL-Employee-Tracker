@@ -14,8 +14,11 @@
 This assignement required students to create a content management systems (CMS) interface that allow non-developers to easily view and interact with information stored in databases. This assignment module is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL2.
 
 ## Visuals
+ 
+ 
+##Employee Tracker Video Link
 
-- [Employee Tracker Video Link](https://drive.google.com/file/d/1BdUh7TwXlxNkrB_2G42o9Vi-6pmwI3_C/view)
+https://drive.google.com/file/d/1BdUh7TwXlxNkrB_2G42o9Vi-6pmwI3_C/view
 
 ## Employee Tracker Screenshots
 
