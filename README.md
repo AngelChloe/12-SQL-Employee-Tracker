@@ -3,22 +3,21 @@
 ## Table of Contents
 
 1. [Description](#description)
-2. [Visuals](#visuals)
-3. [Resources](#resources)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Authors and Acknowledgements](#authors-and-acknowledgements)
+2. [Video Link](#video-link)
+3. [Visuals](#visuals)
+4. [Resources](#resources)
+5. [Installation](#installation)
+6. [Usage](#usage)
+7. [Authors and Acknowledgements](#authors-and-acknowledgements)
 
 ## Discription
 
 This assignment required students to create a content management systems (CMS) interface that allow non-developers to easily view and interact with information stored in databases. This assignment module is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL2.
 
+## [Employee Tracker Video Link](https://drive.google.com/file/d/100jHcA9JSWrrTcIGpopgErQu2vLdoBDa/view)
+
 ## Visuals
  
-### [Employee Tracker Video Link](https://drive.google.com/file/d/100jHcA9JSWrrTcIGpopgErQu2vLdoBDa/view)
-
-### [Live site](https://cinderbeast.github.io/12-SQL-Employee-Tracker)
-
 ### Employee Tracker Screenshots
 
 ![ScreenshotEmpTracker1](https://user-images.githubusercontent.com/105569378/189549877-4f01fa18-ee45-4920-9b0b-826dc9d24429.png)
