@@ -3,16 +3,19 @@
 ## Table of Contents
 
 1. [Description](#description)
-2. [Video Link](#video-link)
-3. [Visuals](#visuals)
-4. [Resources](#resources)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Authors and Acknowledgements](#authors-and-acknowledgements)
+2. [Live Link](#live-link)
+3. [Video Link](#video-link)
+4. [Visuals](#visuals)
+5. [Resources](#resources)
+6. [Installation](#installation)
+7. [Usage](#usage)
+8. [Authors and Acknowledgements](#authors-and-acknowledgements)
 
 ## Discription
 
-This assignment required students to create a content management systems (CMS) interface that allow non-developers to easily view and interact with information stored in databases. This assignment module is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL2.
+This assignment required students to create a content management systems (CMS) interface that allow non-developers to easily view and interact with information stored in data https://cinderbeast.github.io/12-SQL-Employee-Tracker/bases. This assignment module is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL2.
+
+## [Live Link]( https://cinderbeast.github.io/12-SQL-Employee-Tracker/) 
 
 ## Video Link
 https://drive.google.com/file/d/100jHcA9JSWrrTcIGpopgErQu2vLdoBDa/view
