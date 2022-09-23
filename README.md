@@ -13,7 +13,7 @@
 
 ## Discription
 
-This assignment required students to create a content management systems (CMS) interface that allow non-developers to easily view and interact with information stored in data https://cinderbeast.github.io/12-SQL-Employee-Tracker/bases. This assignment module is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL2.
+This assignment required students to create a content management systems (CMS) interface that allow non-developers to easily view and interact with information stored in data bases. This assignment module is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL2.
 
 ## [Live Site](https://cinderbeast.github.io/12-SQL-Employee-Tracker) 
 
