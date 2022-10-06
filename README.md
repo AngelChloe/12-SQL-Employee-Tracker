@@ -3,15 +3,14 @@
 
 ## Table of Contents
 
-1. [Description](#description)
-2. [Task](#task)
-3. [User Story](#uaser-story)
-4. [Acceptance Criteria](#acceptance-criteria)
-5. [Live Site](#live-link)
-6. [Visuals](#visuals)
-7. [Resources](#resources)
-8. [Usage](#usage)
-9. [Authors and Acknowledgements](#authors-and-acknowledgements)
+1. [Task](#task)
+2. [User Story](#uaser-story)
+3. [Acceptance Criteria](#acceptance-criteria)
+4. [Live Site](#live-link)
+5. [Visuals](#visuals)
+6. [Resources](#resources)
+7. [Usage](#usage)
+8. [Authors and Acknowledgements](#authors-and-acknowledgements)
 
 
 ## Task
