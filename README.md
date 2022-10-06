@@ -65,7 +65,7 @@ As a developer who writes about tech, I want a CMS-style blog site so that I can
 
 ## Resources
 
-- [Live Link]()
+- [Live Site]()
 
 - [Repository](https://github.com/Cinderbeast/14-Model-View-Controller-MVC-Tech-Blog)
 
