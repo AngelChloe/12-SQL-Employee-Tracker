@@ -11,7 +11,7 @@
 7. [Authors and Acknowledgements](#authors-and-acknowledgements)
 
 
-## Decription
+## Description
 
 This assignement required students to create a content management systems (CMS) interface that allow non-developers to easily view and interact with information stored in databases. This assignment module is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL2.
 
