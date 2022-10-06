@@ -22,7 +22,6 @@ This assignement required students to create a content management systems (CMS) 
 ![ScreenshotEmpTracker2](https://user-images.githubusercontent.com/105569378/189549902-3a001aa5-7a23-470c-8cbc-2340660c2733.png)
 ![ScreenshotEmpAdd](https://user-images.githubusercontent.com/105569378/189549916-7ee80626-7d04-4dae-9731-8f142ae43e21.png)
 
-
 ## Resources
 
 - [Repository](https://github.com/Cinderbeast/14-Model-View-Controller-MVC-Tech-Blog)
@@ -36,11 +35,9 @@ This assignement required students to create a content management systems (CMS) 
 - npm install mysql
 - mysql -u root
 - source db/schema.sql
+- source db/seeds.sql
 - exit
 - npm start
-- make sure server.js is connected to SQL before continuing
-- In a new browser open local port 3001
-
 
 ## Authors and Acknowledgements:
 
