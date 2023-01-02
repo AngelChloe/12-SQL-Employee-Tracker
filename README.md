@@ -24,8 +24,7 @@ This assignement required students to create a content management systems (CMS) 
 
 ## Resources
 
-- [Repository](https://github.com/Cinderbeast/14-Model-View-Controller-MVC-Tech-Blog)
-
+- [Repository](https://github.com/AngelChloe/12-SQL-Employee-Tracker)
 
 ## Usage
 
